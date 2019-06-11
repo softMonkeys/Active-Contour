@@ -7,8 +7,8 @@
 
 This project is the part of the assignemnt in CMPT743 2019 
 
-![](./screenshots/active-contour1.png)
-![](./screenshots/active-contour2.png)
+![](./screenshots/active_contour1.png)
+![](./screenshots/active_contour2.png)
 
 ## Setup
 '''Matlab2018a'''
