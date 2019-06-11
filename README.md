@@ -1,14 +1,14 @@
 # Active-Contour
 > Image Segmentation with Active Contour
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<!--[![NPM Version][npm-image]][npm-url] -->
+<!--[![Build Status][travis-image]][travis-url] -->
+<!--[![Downloads Stats][npm-downloads]][npm-url] -->
 
 This project is the part of the assignemnt in CMPT743 2019 
 
-![](./screenshot/active-contour1.png)
-![](./screenshot/active-contour2.png)
+![](./screenshots/active-contour1.png)
+![](./screenshots/active-contour2.png)
 
 ## Setup
 '''Matlab2018a'''
