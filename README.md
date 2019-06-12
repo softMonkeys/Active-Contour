@@ -27,7 +27,7 @@ Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com
 
 ## Inspiration
 You can get more information on this assignment from 
-[here](/ref/Project 1 Active Contour.pdf)
+[here](./ref/Project 1 Active Contour.pdf)
 Also, you can start from the original framework
 [here](https://drive.google.com/file/d/1AL099sxWFXCxSBy0vz5crG1Cjpxv0aGr/view)
 
