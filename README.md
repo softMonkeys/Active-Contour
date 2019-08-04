@@ -11,7 +11,7 @@ This project is the part of the assignemnt in CMPT743 2019
 ![](./screenshots/active_contour2.png)
 
 ## Setup
-'''Matlab2018a'''
+```Matlab2018a```
 
 <!-- 
 ## Usage example
@@ -20,14 +20,14 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 -->
-## Meta
+## Author
 
 Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com
 <!--Distributed under the XYZ license. See ``LICENSE`` for more information.-->
 
 ## Inspiration
 You can get more information on this assignment from 
-[here](./ref/Project 1 Active Contour.pdf)
+[here](https://github.com/suhongkim/Active-Contour/blob/master/ref/Project%201%20Active%20Contour.pdf) \
 Also, you can start from the original framework
 [here](https://drive.google.com/file/d/1AL099sxWFXCxSBy0vz5crG1Cjpxv0aGr/view)
 
